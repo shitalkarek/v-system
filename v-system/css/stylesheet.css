@@ -1,0 +1,73 @@
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    text-align: center;
+    /* background-color: rgb(18, 18, 62); */
+    /* background-color: aquamarine;
+     */
+     /* background-image: url('../css/blaccky.avif'); */
+     background-color: #28282b;
+    
+      background-repeat: no-repeat;
+     background-size: cover; 
+     
+     
+     
+}
+
+#headerSection{
+    padding: 10px;
+}
+
+#headerSection h1{
+    font-family: cursive;
+    font-size: 25%;
+}
+
+
+input{
+    padding: 10px;
+    border-radius: 7px;
+
+}
+
+#dropbox{
+    padding: 10px;
+    border-radius: 7px;
+    width: 24%;
+
+}
+#bodySection{
+    border: 2px solid rgb(211, 26, 26);
+    background-color: rgb(204, 196, 196);
+    margin-top: 27px;
+    margin-left: 10%;
+    border-radius: 10%;
+    padding: 10px;
+    width: 30%;   
+    background: transparent;
+    backdrop-filter: blur(90px);
+    box-shadow: 0 0 10 #0689ee;
+}
+
+#back-link a{
+    text-decoration: none;
+    color: rgb(29, 8, 167);
+}
+
+/* 
+#login_button{
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 7px;
+    background-color: rgb(111, 111, 237);
+    color: white;
+
+} */
